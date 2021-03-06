@@ -1,2 +1,0 @@
-# myProject
-practice for university
